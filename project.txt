@@ -1,0 +1,5 @@
+Company: mmmm
+Name: mmmm
+Start: 2021-10-06 00:00:00.0
+End: 2021-10-02 00:00:00.0
+Prowadzący: Marta Chynek

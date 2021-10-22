@@ -1,0 +1,6 @@
+Imię: m
+Nazwisko: 
+Data urodzenia: null
+E-mail: 
+Numer telefonu: 
+Status: Niezainteresowany
